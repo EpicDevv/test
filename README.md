@@ -1,6 +1,6 @@
 # React Portfolio
 
-Check it live here - [http://madhavbahl.tech/portfolio/](http://madhavbahl.tech/portfolio/)
+Check it live here - https://EpicDevv.github.io/test/
 
 ## Libraries used
 
